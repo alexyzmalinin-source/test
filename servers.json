@@ -1,0 +1,17 @@
+{
+    "format":  2,
+    "revision":  3,
+    "servers":  [
+                    {
+                        "address":  "chacha20:afb9489829acf05ff5256d9b:8f13a419080583dd8d4814",
+                        "port":  23966,
+                        "updatePort":  23967
+                    },
+                    {
+                        "address":  "chacha20:c032a3759069d8afd5effeaf:d2d7af7f40f09091c5485d0137cbbbf48deff78989",
+                        "port":  23966,
+                        "updatePort":  23967
+                    }
+                ],
+    "signature":  "ca8dad07afb6d64e75ec80b3469b1ec08d395772d34374e1f55d4f136001a3986f3d778f8d4c851d9cd38f9dd51673af2e1a35a4889b71f4645d03cdb2240537b57cb1882f32de78dfabc1b85f53e1b8c516dc8f89dc6574806dc9389205b13a0eb4a8ad6521c07beacb77485e6e3488da58acc50226bf616ca9209209a3eb56b498736676547a8297353302c2cca2428d1e9f3135b6fccda2d31d9fff5b5281abb2615a5d0513fa8191ae40096e32063d399fd4b895ffb525ad0f6d4050fc6f5e40a9af1a2578e7346d5fe720e674f9b3ac9fb1e1268dbf91f97b0e9cc9d2ab6052861838c73739b575a0afbecb26f8a6fbc482475978ea64385edfcbf76fccdc0682b27065ce80b6d4b109fb476020bf561f856151add29d638367c88520fa67bcd09aa6ca6044894281f24371630f1d0275832243735939a34815e620b788fb5f79f32bc5bc81aec9598366b38813770ef287a4d515e8dfd04fe4095925d9da6e51671d968df837321b215428d65140f1e33a55a35dc056ab1c0f6a4d5b89"
+}
